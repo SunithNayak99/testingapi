@@ -1,0 +1,25 @@
+
+[
+{
+    "name": "arnav",
+    "age":21,
+    "class":"BCAB2",
+    "image":"https://www.bing.com/th/id/OIP.UoCMR6vo6_HULqC5jt0P5QHaLH?w=160&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "prference":{
+        "outdoor":"yes",
+        "indoor":"no"
+    },
+    "content": "<h2>User: Arnav</h2><img src='https://www.bing.com/th/id/OIP.UoCMR6vo6_HULqC5jt0P5QHaLH?w=160&h=211' style='width:150px;'><p><b>Age:</b> 21</p><p><b>Class:</b> BCAB2</p>"
+},
+{
+    "name": "arush",
+    "age":22,
+    "class":"BCAB2",
+    "image":"https://www.bing.com/th/id/OIP.5pGmMOmWdCOwrIy_WTIyXQHaJQ?w=160&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "prference":{
+        "outdoor":"yes",
+        "indoor":"no"
+    },
+    "content": "<h2>User: arsh</h2><img src='https://www.bing.com/th/id/OIP.5pGmMOmWdCOwrIy_WTIyXQHaJQ?w=160&h=211' style='width:150px;'><p><b>Age:</b> 22</p><p><b>Class:</b> BCAB2</p><p>preference: Outdoor - yes, Indoor - no</p>"
+}
+]
