@@ -21,5 +21,16 @@
         "indoor":"no"
     },
     "content": "<h2>User: arsh</h2><img src='https://www.bing.com/th/id/OIP.5pGmMOmWdCOwrIy_WTIyXQHaJQ?w=160&h=211' style='width:150px;'><p><b>Age:</b> 22</p><p><b>Class:</b> BCAB2</p><p>preference: Outdoor - yes, Indoor - no</p>"
+},
+{
+    "name": "arush",
+    "age":22,
+    "class":"BCAB2",
+    "image":"https://www.bing.com/th/id/OIP.XL7DoVz0K4DKUreMu7BOFwHaEK?w=238&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "prference":{
+        "outdoor":"yes",
+        "indoor":"no"
+    },
+    "content": "<h2>User: shata</h2><img src='https://www.bing.com/th/id/OIP.XL7DoVz0K4DKUreMu7BOFwHaEK?w=238&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2' style='width:150px;'><p><b>Age:</b> 22</p><p><b>Class:</b> BCAB2</p><p>preference: Outdoor - yes, Indoor - no</p>"
 }
 ]
